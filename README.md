@@ -1,6 +1,4 @@
-# test
-testdelete
-Privacy Policy
+# Gary LLM Privacy Policy
 
 Effective Date: July 31, 2024
 
