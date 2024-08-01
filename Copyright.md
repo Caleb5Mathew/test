@@ -1,7 +1,3 @@
-Certainly! Here’s a copyright notice that indicates your project is based on the MIT License as provided:
-
----
-
 **Copyright (c) 2024 Gary_LLM**
 
 This project is based on llama.cpp and ggml software licensed under the MIT License. The original license terms are as follows:
